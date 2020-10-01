@@ -10,6 +10,6 @@ Currently supported operations are:
 Support for the operations will be added soon.
 
 # Structure
-Current each operation alongside with it's benchmarking code it placed under it's own file.
+Currently each operation alongside with it's benchmarking code it placed under it's own file.
 To benchmark a specific operation compile concrete chpl file, then run it from 'RunBenchmarkAndPlot' notebook to see benchmark results and plot.
 Notebook free of benchmarking will be added soon.
